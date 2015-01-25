@@ -1,0 +1,4 @@
+E:\workspace\vsprojects\PVHelper\PVHelper\bin\x64\Debug\PVHelper.exe
+E:\workspace\vsprojects\PVHelper\PVHelper\bin\x64\Debug\PVHelper.pdb
+E:\workspace\vsprojects\PVHelper\PVHelper\obj\x64\Debug\PVHelper.exe
+E:\workspace\vsprojects\PVHelper\PVHelper\obj\x64\Debug\PVHelper.pdb
